@@ -17,7 +17,7 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn React..hello bino
+            Learn React..hello bino (Changed on feature)
           </a>
         </header>
       </div>
